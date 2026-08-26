@@ -1,0 +1,53 @@
+---
+title: "Publications"
+subtitle: "Peer-reviewed articles and reports"
+pagetitle: "Publications · Seth R. Newton"
+---
+
+A complete list of my peer-reviewed publications, listed most recent first.
+Author name shown as *Newton SR*.
+
+## Submitted / in review
+
+<ol class="pub-list">
+<li>Newton SR, et al. “Filling the Gaps in PFAS Detection: Integrating GC-MS Non-Targeted Analysis for Comprehensive Environmental Monitoring and Exposure Assessment.” Submitted to Environmental Science and Technology Letters as part of the special issue “Non-Targeted Analysis of the Environment”</li>
+</ol>
+
+## Peer-reviewed articles
+
+<ol class="pub-list">
+<li>Sloop JT, Casey JS, Liberatore H, Chao A, Isaacs KK, Newton SR. "Development and application of a non-targeted analysis method using GC–MS and LC-MS for identifying chemical contaminants in drinking water via point-of-use filters." Microchemical Journal (2024): 112223.</li>
+<li>Smalling KL, et al. "Mixed contaminant exposure in tapwater and the potential implications for human-health in disadvantaged communities in California." Water Research 267 (2024): 122485.</li>
+<li>Strynar MJ, et al. "Practical application guide for the discovery of novel PFAS in environmental samples using high resolution mass spectrometry." Journal of Exposure Science & Environmental Epidemiology 33.4 (2023): 575-588.</li>
+<li>Manz KE., et al. "Non-targeted analysis (NTA) and suspect screening analysis (SSA): a review of examining the chemical exposome." Journal of exposure science & environmental epidemiology 33.4 (2023): 524-536.</li>
+<li>Casey J, Jackson S, Ryan J, Newton SR. “The Use of Gas Chromatography – High Resolution Mass Spectrometry for Non-targeted Analysis of Per- and Polyfluorinated Alkyl Substances (PFAS).” Journal of Chromatography A: 1693 (2023): 463884</li>
+<li>Sloop JT, Chao A, Gundersen J, Phillips AL, Sobus JR, Ulrich EM, Williams AJ, Newton SR. “Demonstrating the Use of Non-targeted Analysis for Identification of Unknown Chemicals in Rapid Response Scenarios.” Environmental Science and Technology: 57.8 (2023): 3075-3084.</li>
+<li>Fisher CM, Peter KT, Newton SR, Schaub AJ, Sobus JR. “Approaches for Assessing Performance of High-Resolution Mass Spectrometry-based Non-Targeted Analysis Methods.”  Analytical and Bioanalytical Chemistry: 1-17</li>
+<li>Place BJ, Ulrich EM, Challis JK, Chao A, Du B, Favela K, Feng YL et al. “An Introduction to the Benchmarking and Publications for Non-Targeted Analysis Working Group.” Analytical Chemistry 93, 49 (2021), 16289–16296.</li>
+<li>Phillips AL, Williams AJ, Sobus JR, Ulrich EM, Gundersen J, Langlois‐Miller C, and Newton SR. "A Framework for Utilizing High Resolution Mass Spectrometry and Non‐Targeted Analysis (NTA) in Rapid Response and Emergency Situations." Environmental Toxicology and Chemistry (2021).</li>
+<li>Newton SR, Sobus JR, Ulrich EM, Singh RR, Chao A, McCord JP, Laughlin-Toth S, and Strynar MJ. "Examining NTA performance and potential using fortified and reference house dust as part of EPA’s non-targeted analysis collaborative trial (ENTACT)." Analytical and Bioanalytical Chemistry 412, no. 18 (2020): 4221-4233.</li>
+<li>Galloway JE, Moreno AVP, Lindstrom AB, Strynar MJ, Newton SR, May AA, and Weavers LK. "Evidence of air dispersion: HFPO–DA and PFOA in Ohio and West Virginia surface water and soil near a fluoropolymer production facility." Environmental Science & Technology 54, no. 12 (2020): 7175-7184.</li>
+<li>Wambaugh JF, Bare JC, Carignan CC, Dionisio KL, Dodson RE, Jolliet O, Liu X et al. "New approach methodologies for exposure science." Current Opinion in Toxicology 15 (2019): 76-92.</li>
+<li>Russell TS, Bahadori T, Buckley TJ, Cowden J, Deisenroth C, Dionisio KL, Frithsen JB et al. "The next generation blueprint of computational toxicology at the US Environmental Protection Agency." Toxicological Sciences 169, no. 2 (2019): 317-332.</li>
+<li>Russell MC, Newton SR, McClure KM, Levine RS, Phelps LP, Lindstrom AB, and Strynar MJ. "Per-and polyfluoroalkyl substances in two different populations of northern cardinals." Chemosphere 222 (2019): 295-304.</li>
+<li>Sobus JR, Grossman JN, Chao A, Singh RR, Williams AJ, Grulke CM, Richard AM, Newton AR, McEachran AD, and Ulrich EM. "Using prepared mixtures of ToxCast chemicals to evaluate non-targeted analysis (NTA) method performance." Analytical and Bioanalytical Chemistry 411, no. 4 (2019): 835-851.</li>
+<li>Ulrich EM, Sobus JR, Grulke CM, Richard AM, Newton SR, Strynar MJ, Mansouri K, and Williams AJ. "EPA’s non-targeted analysis collaborative trial (ENTACT): genesis, design, and initial findings." Analytical and Bioanalytical Chemistry 411, no. 4 (2019): 853-866.</li>
+<li>Wong F, de Wit CA, and Newton SR. "Concentrations and variability of organophosphate esters, halogenated flame retardants, and polybrominated diphenyl ethers in indoor and outdoor air in Stockholm, Sweden." Environmental Pollution 240 (2018): 514-522.</li>
+<li>Sobus JR, Wambaugh JF, Isaacs KK, Williams AJ, McEachran AD, Richard AM, Grulke CM et al. "Integrating tools for non-targeted analysis research and chemical safety evaluations at the US EPA." Journal of exposure science & environmental epidemiology 28, no. 5 (2018): 411-426.</li>
+<li>McCord JP, Newton SR, and Strynar MJ. "Validation of quantitative measurements and semi-quantitative estimates of emerging perfluoroethercarboxylic acids (PFECAs) and hexfluoroprolyene oxide acids (HFPOAs)." Journal of Chromatography A 1551 (2018): 52-58.</li>
+<li>McEachran AD, Mansouri K, Newton SR, Beverly BEJ, Sobus JR, and Williams AJ. "A comparison of three liquid chromatography (LC) retention time prediction models." Talanta 182 (2018): 371-379.</li>
+<li>McEachran AD, Hedgespeth ML, Newton SR, McMahen R, Strynar MJ, Shea D, and Nichols EG. "Comparison of emerging contaminants in receiving waters downstream of a conventional wastewater treatment plant and a forest-water reuse system." Environmental Science and Pollution Research 25, no. 13 (2018): 12451-12463.</li>
+<li>Newton SR, McMahen RL, Sobus JR, Mansouri K, Williams AJ, McEachran AD, and Strynar MJ. "Suspect screening and non-targeted analysis of drinking water using point-of-use filters." Environmental Pollution 234 (2018): 297-306.</li>
+<li>Newton SR, McMahen RL, Stoeckel JA, Chislock M, Lindstrom A, and Strynar MJ. "Novel polyfluorinated compounds identified using high resolution mass spectrometry downstream of manufacturing facilities near Decatur, Alabama." Environmental Science & Technology 51, no. 3 (2017): 1544-1552.</li>
+<li>Newton SR, Sellström U, Harrad S, Yu G, and de Wit CA. "Comparisons of indoor active and passive air sampling methods for emerging and legacy halogenated flame retardants in Beijing, China offices." Emerging Contaminants 2, no. 2 (2016): 80-88.</li>
+<li>Drage DS, Newton SR, de Wit CA, Harrad S. "Concentrations of legacy and emerging flame retardants in air and soil on a transect in the UK West Midlands." Chemosphere 148 (2016): 195-203.</li>
+<li>Bidleman T, Agosta K, Andersson A, Brorström-Lundén E, Haglund P, Hansson K, Laudon H, Newton SR, Nygren O, Ripszam M, Tysklind M. "Atmospheric pathways of chlorinated pesticides and natural bromoanisoles in the northern Baltic Sea and its catchment." Ambio 44, no. 3 (2015): 472-483.</li>
+<li>Newton, Seth, Ulla Sellström, and Cynthia A. de Wit. "Emerging flame retardants, PBDEs, and HBCDDs in indoor and outdoor media in Stockholm, Sweden." Environmental Science & Technology 49, no. 5 (2015): 2912-2920.</li>
+<li>Newton SR, Sellström U, de Wit CA. "Atmospheric deposition of persistent organic pollutants and chemicals of emerging concern at two sites in northern Sweden." Environmental Science: Processes & Impacts 16, no. 2 (2014): 298-305.</li>
+</ol>
+
+## Other reports
+
+<ol class="pub-list">
+<li>Plan for Addressing Critical Research Gaps Related to Emerging Contaminants in Drinking Water. National Institute of Health, mandated by the 2019 National Defense Authorization Act (NDAA). <a href="https://trumpwhitehouse.archives.gov/wp-content/uploads/2018/11/Plan-for-Addressing-Critical-Research-Gaps-Related-to-Emerging-Contaminants-in-Drinking-Water.pdf">[link]</a></li>
+</ol>

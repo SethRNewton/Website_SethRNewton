@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+
+website:
+  title: "Seth R. Newton, Ph.D."
+  description: "Physical Scientist at the U.S. EPA — non-targeted analysis, high-resolution mass spectrometry, and the data tools behind them."
+  site-url: ""
+  navbar:
+    background: primary
+    pinned: true
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "Publications"
+        href: publications.qmd
+    right:
+      - text: "Contact"
+        href: "mailto:seth.r.newton@gmail.com"
+  page-footer:
+    border: true
+    left: "© 2026 Seth R. Newton"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    grid:
+      body-width: 900px

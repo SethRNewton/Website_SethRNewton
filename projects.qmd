@@ -1,0 +1,137 @@
+---
+title: "Projects"
+subtitle: "Research programs, data tools, and scientific-community work"
+pagetitle: "Projects · Seth R. Newton"
+---
+
+The work below spans the research programs I lead at the U.S. EPA, the data
+tools and collaborative trials I've contributed to, and the funded studies I've
+taken part in. Each entry is drawn directly from my record.
+
+## Research leadership {.eyebrow-heading}
+
+Programs led under the EPA's Chemical Safety for Sustainability (CSS) Strategic
+Research Action Plans (STRAP).
+
+::: {.project-grid}
+
+::: {.project-card}
+[Output Lead · STRAP 4]{.tag}
+
+### Building confidence in non-targeted analysis for exposure assessment
+
+Leads CSS 402.6 — building confidence in the use of non-targeted analysis for
+exposure assessment through applications.
+
+[CSS 402.6]{.meta}
+:::
+
+::: {.project-card}
+[Product Lead · STRAP 4]{.tag}
+
+### Point-of-use water filters + NTA for CECs in drinking water
+
+Using point-of-use water filters and non-targeted analysis to identify
+contaminants of emerging concern in drinking water.
+
+[CSS 402.6.4]{.meta}
+:::
+
+::: {.project-card}
+[Product Lead · STRAP 4]{.tag}
+
+### Increasing confidence in NTA using gas chromatography
+
+Improving the reliability of non-targeted analysis identifications through
+GC-based methods.
+
+[CSS 402.6.5]{.meta}
+:::
+
+::: {.project-card}
+[Product Lead · STRAP 4]{.tag}
+
+### Characterizing household-material emissions during a fire
+
+Applying non-targeted analysis to characterize emissions from household
+materials during a fire.
+
+[CSS 402.6.6]{.meta}
+:::
+
+::: {.project-card}
+[Product Lead · STRAP 3]{.tag}
+
+### NTA for rapid-response chemical characterization
+
+Case-study application of non-targeted analysis for chemical characterization
+in a rapid-response scenario.
+
+[CSS 2.7.6]{.meta}
+:::
+
+:::
+
+## Data tools & collaborative science {.eyebrow-heading}
+
+::: {.project-grid}
+
+::: {.project-card}
+[Collaborative trial]{.tag}
+
+### EPA Non-Targeted Analysis Collaborative Trial (ENTACT)
+
+Co-chaired the ENTACT International Workshop (Durham, NC, 2018) and chaired
+national-meeting sessions on its results. Contributed the in-house mixture and
+house-dust performance findings (STAA Honorable Mention, 2021).
+
+[Workshop Co-chair · 2018]{.meta}
+:::
+
+::: {.project-card}
+[Cheminformatics tool]{.tag}
+
+### CompTox Chemicals Dashboard Team
+
+Member of the team behind EPA's CompTox Chemicals Dashboard, supporting
+structure identification for non-targeted analysis.
+
+[ORD Impact Award, 2018 · Bronze Medal, 2019]{.meta}
+:::
+
+::: {.project-card}
+[Community · Standards]{.tag}
+
+### Benchmarking & Publications for Non-Targeted Analysis (BP4NTA)
+
+GC-NTA Committee Chair (2024–present) and former Website Committee Chair
+(2020–2023) for the NTA community working group.
+
+[[nontargetedanalysis.org](https://www.nontargetedanalysis.org)]{.meta}
+:::
+
+::: {.project-card}
+[Editorial]{.tag}
+
+### Guest Editor — special issue on NTA of the environment
+
+Guest Editor for the special issue "Non-Targeted Analysis of the Environment"
+in *Environmental Science & Technology* and *ES&T Letters*.
+
+[2024]{.meta}
+:::
+
+:::
+
+## Funded research (participant) {.eyebrow-heading}
+
+Externally funded studies I contributed to:
+
+- **Tapwater Analysis Project (TAP): Testing Chemicals in Drinking Water in California** — California Breast Cancer Research Program, California Breast Cancer Prevention Initiatives, 2019.
+- **Fire and Water: Investigating Drinking Water Contamination in Paradise, California after the Camp Fire** — National Institute for Environmental Health Sciences, R21 program, 2019.
+- **Application of community-engaged and discovery-driven methods to characterize drinking-water contaminants in disadvantaged communities and their perinatal health effects** — NIEHS Superfund Hazardous Substance Research and Training Program (application), 2021.
+
+::: {.softnote}
+Peer-reviewed outputs from many of these efforts are listed on the
+[Publications](publications.qmd) page.
+:::

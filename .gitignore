@@ -1,0 +1,12 @@
+# Quarto build artifacts
+/_site/
+/.quarto/
+
+# Source material we deliberately keep OUT of the repo (private CV + original photo).
+# The website still builds without it — images/profile.jpg is the copy the site uses.
+/_cv-source/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini

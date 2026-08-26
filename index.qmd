@@ -1,0 +1,82 @@
+---
+title: "Seth R. Newton, Ph.D."
+subtitle: "Physical Scientist · U.S. EPA Center for Computational Toxicology and Exposure"
+pagetitle: "Seth R. Newton, Ph.D."
+about:
+  template: trestles
+  image: images/profile.jpg
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:seth.r.newton@gmail.com
+    - icon: journal-text
+      text: Publications
+      href: publications.qmd
+    - icon: diagram-3
+      text: Projects
+      href: projects.qmd
+---
+
+::: {.lede}
+I develop targeted and non-targeted analytical chemistry methods — and the
+data-processing tools and workflows behind them — to detect chemicals of emerging
+concern in the environment. My work pairs high-resolution mass spectrometry with
+non-targeted analysis to tackle problems ranging from PFAS in drinking water to
+rapid emergency response.
+:::
+
+I'm a Physical Scientist (GS-14) at the U.S. EPA's Center for Computational
+Toxicology and Exposure, where I lead research that turns complex mass-spectrometry
+data into actionable identifications of unknown compounds in environmental media.
+
+### Focus areas
+
+<ul class="chips">
+<li>Non-targeted analysis (NTA)</li>
+<li>High-resolution mass spectrometry</li>
+<li>PFAS identification</li>
+<li>Data-processing tools &amp; workflows</li>
+<li>Suspect screening</li>
+<li>Method performance evaluation</li>
+<li>Drinking-water contaminants</li>
+<li>GC–HRMS</li>
+</ul>
+
+## Experience
+
+<ul class="timeline">
+<li><span class="role">Physical Scientist (GS-14)</span> — <span class="org">U.S. EPA, Center for Computational Toxicology and Exposure</span><span class="when">October 2023 – present</span></li>
+<li><span class="role">Acting Branch Chief (GS-14)</span> — <span class="org">U.S. EPA, Center for Computational Toxicology and Exposure</span><span class="when">June 2022 – October 2022</span></li>
+<li><span class="role">Physical Scientist (GS-13)</span> — <span class="org">U.S. EPA, Center for Computational Toxicology and Exposure</span><span class="when">October 2019 – October 2023</span></li>
+<li><span class="role">Physical Scientist (GS-13)</span> — <span class="org">U.S. EPA, National Exposure Research Laboratory</span><span class="when">May 2017 – September 2019</span></li>
+<li><span class="role">Physical Scientist (GS-12)</span> — <span class="org">U.S. EPA, National Exposure Research Laboratory</span><span class="when">May 2016 – May 2017</span></li>
+<li><span class="role">Postdoctoral Physical Scientist</span> — <span class="org">Oak Ridge Institute for Science and Education, stationed at the National Exposure Research Laboratory</span><span class="when">August 2015 – April 2016</span></li>
+<li><span class="role">Data Analyst</span> — <span class="org">Umeå University, Department of Environmental Chemistry</span><span class="when">December 2010 – February 2011</span></li>
+</ul>
+
+## Education
+
+<ul class="timeline">
+<li><span class="role">Ph.D., Applied Environmental Science</span> — <span class="org">Stockholm University</span><span class="when">2015</span></li>
+<li><span class="role">M.Sc., Environmental Chemistry</span> — <span class="org">Umeå University</span><span class="when">2011</span></li>
+<li><span class="role">B.S., Environmental Science (Emphasis in Management)</span><span class="when">2007</span></li>
+<li><span class="role">Project Management Principles</span> — <span class="org">Management Concepts</span><span class="when">2023</span></li>
+</ul>
+
+## Selected honors
+
+<ul class="timeline">
+<li><span class="role">Science and Technology Award (STAA), Level III</span> — “Identification of Per- and Polyfluoroalkyl Substances in the Cape Fear River by High Resolution Mass Spectrometry and Nontargeted Screening”<span class="when">U.S. EPA, 2020</span></li>
+<li><span class="role">Science and Technology Award (STAA), Level III</span> — “Linking High Resolution Mass Spectrometry Data with Exposure and Toxicity Forecasts to Advance High-Throughput Environmental Monitoring”<span class="when">U.S. EPA, 2020</span></li>
+<li><span class="role">Science Achievement Award for Science Leadership</span> — <span class="org">U.S. EPA</span><span class="when">2019</span></li>
+<li><span class="role">Gold Medal for Exceptional Service</span> — <span class="org">PFAS Team, ORD</span><span class="when">2018</span></li>
+<li><span class="role">ORD Impact Award</span> — <span class="org">CompTox Chemicals Dashboard Team</span><span class="when">2018</span></li>
+<li><span class="role">Bronze Medal for Commendable Service</span> — <span class="org">PFAS Team, ORD</span><span class="when">2017</span></li>
+</ul>
+
+::: {.softnote}
+Interested in my full record? See the [Projects](projects.qmd) and
+[Publications](publications.qmd) pages, or [get in touch](mailto:seth.r.newton@gmail.com).
+:::
