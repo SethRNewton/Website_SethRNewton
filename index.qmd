@@ -1,6 +1,6 @@
 ---
 title: "Seth R. Newton, Ph.D."
-subtitle: "Physical Scientist · U.S. EPA Center for Computational Toxicology and Exposure"
+subtitle: "Physical Scientist · U.S. EPA Office of Applied Science and Environmental Solutions (OASES)"
 pagetitle: "Seth R. Newton, Ph.D."
 about:
   template: trestles
@@ -27,8 +27,8 @@ non-targeted analysis to tackle problems ranging from PFAS in drinking water to
 rapid emergency response.
 :::
 
-I'm a Physical Scientist (GS-14) at the U.S. EPA's Center for Computational
-Toxicology and Exposure, where I lead research that turns complex mass-spectrometry
+I'm a Physical Scientist (GS-14) at the U.S. EPA's Office of Applied Science and
+Environmental Solutions (OASES), where I lead research that turns complex mass-spectrometry
 data into actionable identifications of unknown compounds in environmental media.
 
 ### Focus areas
@@ -47,7 +47,8 @@ data into actionable identifications of unknown compounds in environmental media
 ## Experience
 
 <ul class="timeline">
-<li><span class="role">Physical Scientist (GS-14)</span> — <span class="org">U.S. EPA, Center for Computational Toxicology and Exposure</span><span class="when">October 2023 – present</span></li>
+<li><span class="role">Research Physical Scientist (GS-14)</span> — <span class="org">U.S. EPA, Office of Applied Science and Environmental Solutions</span><span class="when">October 2025 – present</span></li>
+<li><span class="role">Research Physical Scientist (GS-14)</span> — <span class="org">U.S. EPA, Center for Computational Toxicology and Exposure</span><span class="when">October 2023 – October 2025</span></li>
 <li><span class="role">Acting Branch Chief (GS-14)</span> — <span class="org">U.S. EPA, Center for Computational Toxicology and Exposure</span><span class="when">June 2022 – October 2022</span></li>
 <li><span class="role">Physical Scientist (GS-13)</span> — <span class="org">U.S. EPA, Center for Computational Toxicology and Exposure</span><span class="when">October 2019 – October 2023</span></li>
 <li><span class="role">Physical Scientist (GS-13)</span> — <span class="org">U.S. EPA, National Exposure Research Laboratory</span><span class="when">May 2017 – September 2019</span></li>
