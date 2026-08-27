@@ -25,4 +25,5 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: deploy            # reads wrangler.jsonc (name + ./_site assets)
+          wranglerVersion: "4.127.0"  # v3.90 (the action default) can't deploy assets-only Workers
+          command: deploy             # reads wrangler.jsonc (name + ./_site assets)
