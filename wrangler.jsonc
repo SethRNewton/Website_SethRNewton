@@ -1,0 +1,8 @@
+{
+  // Cloudflare Worker that serves the rendered Quarto site as static assets.
+  "name": "sethrnewton",
+  "compatibility_date": "2025-06-01",
+  "assets": {
+    "directory": "./_site"
+  }
+}

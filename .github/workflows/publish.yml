@@ -1,4 +1,4 @@
-name: Deploy to Cloudflare Pages
+name: Deploy to Cloudflare
 
 on:
   push:
@@ -20,9 +20,9 @@ jobs:
       - name: Render site
         run: quarto render            # outputs to _site/ (per _quarto.yml)
 
-      - name: Deploy to Cloudflare Pages
+      - name: Deploy to Cloudflare
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: pages deploy _site --project-name=sethrnewton --branch=main
+          command: deploy            # reads wrangler.jsonc (name + ./_site assets)
